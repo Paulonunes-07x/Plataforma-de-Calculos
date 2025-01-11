@@ -1,2 +1,2 @@
-# Plataforma-de-C-lculos
+# Plataforma-de-Cálculos
 Projeto 
